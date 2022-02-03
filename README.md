@@ -1,1 +1,2 @@
-# datinglandingpage.ioDating site landing page
+# datinglandingpage.io
+Dating site landing page
